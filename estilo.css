@@ -1,0 +1,39 @@
+header{
+		width:85%;
+		height: 200px;
+		border: 10px double #000000;
+		border-radius:15px;
+		background: #7B1FA2;
+		margin: 20px auto 0px;
+		
+		}
+		
+header img{
+		display: inline-block;
+		width:150px;
+		height: 150px:
+		margin-top: 25px:
+		margin-left: 50px:
+		position: absolute;
+	
+	}
+	
+	header h1{
+			display: inline-block;
+			margin-left: 70px;
+			margin-top: 70px;
+			position: absolute;
+			color: #D50000;
+			font-size: 4em;
+			font-family:  'Sedgwick Ave', cursive;
+			
+			transition-property: color , text-shadow;
+			transition-duration: 1s, 1.5s;
+			
+			
+			-webkit-transition:color 1s;
+			-moz-transition:color 1s;
+			
+			
+			}
+		
